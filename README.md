@@ -1,2 +1,3 @@
 # About Me
-Hello there! my name is Bilal Younus
+I did my matriculation and Intermediate from Higher Secondary School at City Cambridge High School Hyderabad... 
+For now, I am a Schollar at one of the reputed University (Sukkur IBA University) in Computer Science Major. (2019-present)
