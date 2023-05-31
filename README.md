@@ -4,8 +4,8 @@ For now, I am a Schollar at one of the reputed University (Sukkur IBA University
 <a href="https://github.com/bilal-younus">
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilal-younus&theme=monokai" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bilal-younus&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-younus&layout=compact&langs_count=7&theme=monokai" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bilal-younus&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bilal-younus&layout=compact&langs_count=7&theme=monokai" />
 </div>
 
 <div style="display: inline_block"><br>
